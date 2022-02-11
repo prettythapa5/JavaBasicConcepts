@@ -1,2 +1,2 @@
-# RandomJavaBasicConcepts
-This repository contains some random core java basic concepts, taht were learnt by running the sample line of codes
+# JavaBasicConcepts
+This repository contains some core java basic concepts, that were learnt by running the sample line of codes
