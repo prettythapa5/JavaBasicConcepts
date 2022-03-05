@@ -8,7 +8,7 @@ public class ReadFile {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-	File file = new File("C:/Users/pretty.thapa/Documents/textFile.txt");
+	File file = new File("C:/Users/../Documents/textFile.txt");
 	Scanner scan = new Scanner(file);
 	
 	String content = "";
